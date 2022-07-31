@@ -12,6 +12,7 @@ public class TestHashSet {
         String s = "/file/group";
         String substring = s.substring(s.indexOf("/file"));
         System.out.println(substring);
+        System.out.println("cc");
 
     }
 }
